@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import React from 'App.js';
+
 function Home() {
   const [home, setHome] = useState('Welcome to my home!');
 
