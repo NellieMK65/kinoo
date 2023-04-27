@@ -10,6 +10,7 @@ function Home() {
   return (
     <div>
       <h1>{home}</h1>
+      <h2>Home Component</h2>
       <button onClick={handleClick}>Change Home</button>
     </div>
   );
